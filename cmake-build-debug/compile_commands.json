@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/lou/Tec/progra_OOP/FinalOOP/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -I/usr/local/include -o CMakeFiles/FinalOOP.dir/main.cpp.o -c /home/lou/Tec/progra_OOP/FinalOOP/main.cpp",
+  "file": "/home/lou/Tec/progra_OOP/FinalOOP/main.cpp"
+},
+{
+  "directory": "/home/lou/Tec/progra_OOP/FinalOOP/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -I/usr/local/include -o CMakeFiles/FinalOOP.dir/Player.cpp.o -c /home/lou/Tec/progra_OOP/FinalOOP/Player.cpp",
+  "file": "/home/lou/Tec/progra_OOP/FinalOOP/Player.cpp"
+},
+{
+  "directory": "/home/lou/Tec/progra_OOP/FinalOOP/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -I/usr/local/include -o CMakeFiles/FinalOOP.dir/gameWorldData.cpp.o -c /home/lou/Tec/progra_OOP/FinalOOP/gameWorldData.cpp",
+  "file": "/home/lou/Tec/progra_OOP/FinalOOP/gameWorldData.cpp"
+},
+{
+  "directory": "/home/lou/Tec/progra_OOP/FinalOOP/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -I/usr/local/include -o CMakeFiles/FinalOOP.dir/Enemy.cpp.o -c /home/lou/Tec/progra_OOP/FinalOOP/Enemy.cpp",
+  "file": "/home/lou/Tec/progra_OOP/FinalOOP/Enemy.cpp"
+}
+]
